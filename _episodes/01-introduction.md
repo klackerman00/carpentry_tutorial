@@ -11,5 +11,10 @@ keypoints:
 ---
 FIXME
 
+<a href="{{ page.root }}/fig/10.png">
+ <img src="{{ page.root }}/fig/10.png" alt="What am I" />
+</a>
+
+
 {% include links.md %}
 
